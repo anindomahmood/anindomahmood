@@ -80,7 +80,3 @@ I’m Anindo Mahmood, an aspiring Full-Stack Software Developer passionate about
 
 <br>
 <br>
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anindomahmood&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
-[![](https://komarev.com/ghpvc/?username=anindomahmood&icon=0&color=1)](https://visitcount.itsvg.in)
