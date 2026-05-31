@@ -1,24 +1,86 @@
-# About Me:
-I am a dedicated Computer Science and Engineering professional specializing in full-stack development, low-level system architecture, and data-driven research. My work bridges the gap between software optimization and creative execution, allowing me to build efficient applications while integrating robust visual design and UI/UX principles. Driven by academic curiosity, my research focuses on leveraging Artificial Intelligence and multidimensional analytics to address global challenges, particularly in advancing healthcare quality, sustainability goals, and positive social impact.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1500&color=00e5ff&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Anindo+Mahmood;Aspiring+Full-Stack+Developer;Frontend+%7C+Backend+Learner;Building+Modern+Web+Applications+🚀" />
+</p>
+
+## Introduction
+
+<p align="center">
+I’m Anindo Mahmood, an aspiring Full-Stack Software Developer passionate about building modern, responsive, and high-performance web applications with a strong focus on clean UI design and scalable backend systems. I work with core web technologies including HTML, CSS, and JavaScript, and I am continuously expanding my skills toward full-stack development using industry-standard tools and best practices. I am currently pursuing my B.Sc. in Computer Science & Engineering at AIUB, where I am strengthening my foundation in software engineering, problem-solving, and system design while actively improving my practical development experience through real projects and continuous learning.
+</p>
+<br>
+
+## Tech Stack
 
 
-## 🌐 Socials:
+<p align="center">
+  <b>Languages</b> <br>
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+
+
+
+
+<p align="center">
+  <b>Frameworks & Technologies</b>
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet" />
+</p>
+
+
+
+<p align="center">
+    <b>Databases</b>
+    <br>
+    <br>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver" />
+</p>
+
+
+<br>
+<br>
+
+## Development Focus
+
+- Frontend Development (Responsive UI / UX)
+- Backend Development Fundamentals
+- REST API Integration
+- AI Integration
+- Problem Solving & Data Structures
+
+<br>
+<br>
+
+## GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<br>
+
+## Connect With Me
+<br>
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anindo.mahmood.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahmood_anindo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anindo-mahmood-9769852a8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anindomahmood1@gmail.com) 
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=anindomahmood&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=anindomahmood&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anindomahmood&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
+<br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anindomahmood&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anindomahmood&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
-
----
 [![](https://komarev.com/ghpvc/?username=anindomahmood&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
