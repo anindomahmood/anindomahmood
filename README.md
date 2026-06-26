@@ -34,9 +34,7 @@ I’m Anindo Mahmood, an aspiring Full-Stack Software Developer passionate about
   <br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg" />
 </p>
 
 
@@ -47,7 +45,6 @@ I’m Anindo Mahmood, an aspiring Full-Stack Software Developer passionate about
     <br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg" />
- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" />
 </p>
 
 <p align="center">
