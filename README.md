@@ -47,7 +47,7 @@ I’m Anindo Mahmood, an aspiring Full-Stack Software Developer passionate about
     <br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg" />
+ <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" />
 </p>
 
 <p align="center">
