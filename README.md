@@ -15,13 +15,13 @@ I’m Anindo Mahmood, an aspiring Full-Stack Software Developer passionate about
 <p align="center">
   <b>Languages</b> <br>
   <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg" />
 </p>
 
 
@@ -32,11 +32,11 @@ I’m Anindo Mahmood, an aspiring Full-Stack Software Developer passionate about
   <b>Frameworks & Technologies</b>
   <br>
   <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg" />
 </p>
 
 
@@ -45,9 +45,19 @@ I’m Anindo Mahmood, an aspiring Full-Stack Software Developer passionate about
     <b>Databases</b>
     <br>
     <br>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg" />
+</p>
+
+<p align="center">
+    <b>Applications</b>
+    <br>
+    <br>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg" />
 </p>
 
 
@@ -68,15 +78,19 @@ I’m Anindo Mahmood, an aspiring Full-Stack Software Developer passionate about
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anindomahmood&theme=moltack" />
+<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anindomahmood&theme=moltack"  />
+<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anindomahmood&theme=moltack"  />
 </p>
 
 <br>
 
 ## Connect With Me
 <br>
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anindo.mahmood.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahmood_anindo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anindo-mahmood-9769852a8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anindomahmood1@gmail.com) 
+<a href="mailto:anindomahmood1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" /></a>
+<a href="https://facebook.com/anindo.mahmood.7"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="32" /></a>
+<a href="https://instagram.com/mahmood_anindo"><img src="https://skillicons.dev/icons?i=instagram" height="32" /></a>
+<a href="https://linkedin.com/in/anindo-mahmood-9769852a8"><img src="https://skillicons.dev/icons?i=linkedin" height="32" /></a>
 
 <br>
 <br>
