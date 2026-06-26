@@ -96,7 +96,6 @@ I’m Anindo Mahmood, an aspiring Full-Stack Software Developer passionate about
 <br>
 <p align="center">
 <a href="mailto:anindomahmood1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" /></a>
-<a href="https://facebook.com/anindo.mahmood.7"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="32" /></a>
 <a href="https://instagram.com/mahmood_anindo"><img src="https://skillicons.dev/icons?i=instagram" height="32" /></a>
 <a href="https://linkedin.com/in/anindo-mahmood-9769852a8"><img src="https://skillicons.dev/icons?i=linkedin" height="32" /></a>
 </p>
