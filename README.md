@@ -18,7 +18,6 @@ I’m Anindo Mahmood, an aspiring Full-Stack Software Developer passionate about
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg" />
@@ -35,7 +34,6 @@ I’m Anindo Mahmood, an aspiring Full-Stack Software Developer passionate about
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Laravel/laravel1.svg" />
 </p>
 
 
