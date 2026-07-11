@@ -34,6 +34,7 @@ I’m Anindo Mahmood, an aspiring Full-Stack Software Developer passionate about
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet2.svg" />
 </p>
 
 
@@ -44,13 +45,15 @@ I’m Anindo Mahmood, an aspiring Full-Stack Software Developer passionate about
     <br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Oracle/oracle2.svg" />
 </p>
 
 <p align="center">
     <b>Applications</b>
     <br>
     <br>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg" />
@@ -91,9 +94,9 @@ I’m Anindo Mahmood, an aspiring Full-Stack Software Developer passionate about
 ## <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30"> Connect With Me
 <br>
 <p align="center">
-<a href="mailto:anindomahmood1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" /></a>
-<a href="https://instagram.com/mahmood_anindo"><img src="https://skillicons.dev/icons?i=instagram" height="32" /></a>
-<a href="https://linkedin.com/in/anindo-mahmood-9769852a8"><img src="https://skillicons.dev/icons?i=linkedin" height="32" /></a>
+<a href="mailto:anindomahmood1@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg" /></a>
+<a href="https://instagram.com/mahmood_anindo"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram3.svg" /></a>
+<a href="https://linkedin.com/in/anindo-mahmood-9769852a8"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" /></a>
 </p>
 
 <p align="center">
