@@ -31,10 +31,10 @@ I’m Anindo Mahmood, an aspiring Full-Stack Software Developer passionate about
   <b>Frameworks & Technologies</b>
   <br>
   <br>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg" />
 </p>
 
 
@@ -46,14 +46,21 @@ I’m Anindo Mahmood, an aspiring Full-Stack Software Developer passionate about
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Oracle/oracle2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg" />
 </p>
 
 <p align="center">
-    <b>Applications</b>
-    <br>
-    <br>
+  <b>IDE & Code Editor</b>
+  <br>
+  <br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg" />
+  <br>
+  <br>
+  <b>Deployment Tools</b> 
+  <br>
+  <br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg" />
