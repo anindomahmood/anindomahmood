@@ -56,8 +56,9 @@ I’m Anindo Mahmood, an aspiring Full-Stack Software Developer passionate about
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg" />
-  <br>
-  <br>
+  </p>
+  
+<p align="center">
   <b>Deployment Tools</b> 
   <br>
   <br>
